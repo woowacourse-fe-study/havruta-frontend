@@ -25,7 +25,7 @@
     - 하위키워드 예시에 없는 내용도 완전 환영!
 
 ### 🕕 토요일 D-1
-- 18:00까지 질문 [Issues](https://github.com/woowacourse-fe-study/havruta-frontend/issues)에 코멘트로 올리기  
+- 18:00까지 질문 [Discussion](https://github.com/woowacourse-fe-study/havruta-frontend/discussions)에 코멘트로 올리기  
 
 ### 🕑 일요일 D-Day
 - 14:00 ~ 15:00 스터디 진행하기
@@ -33,7 +33,7 @@
   - __(권장 40분)__ 이번주 주제 Deep하게 토론하기
   - __(권장 10분)__ 정리 및 회고
   - 단, 페어끼리 합의한 경우 운영진에게 알리고 다른 시간에 진행가능!
-- 20:00까지 페어와 토론한 내용 올렸던 [Issues](https://github.com/woowacourse-fe-study/havruta-frontend/issues) 질문 `edit`해서 추가로 붙여넣기
+- 20:00까지 페어와 토론한 내용 올렸던 [Discussions](https://github.com/woowacourse-fe-study/havruta-frontend/discussions) 질문 `edit`해서 추가로 붙여넣기
   - 정리는 형식에 얽매이지 않고 페어와 어떤 얘기를 나눴는지 짤막하게 적어주세용 ❤️
   - 준줌방 소회의실 택 1해서 진행해주세요 💛
   - 먼저 끝났다면 다른 방에 놀러가도 되지만 방해는 자제해 주세요 💙		
