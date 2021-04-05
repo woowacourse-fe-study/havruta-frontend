@@ -8,9 +8,9 @@
 | Date | Desc | Warm Up | Main Topic |
 |:---|:---|:---|:----|
 ||||||||
-| 03월 28일<br>　  | 1기 - 1주차<br>　 | 🗞 [\<!DOCTYPE html\>](https://github.com/woowacourse-fe-study/havruta-frontend/issues/2)<br>　 | 💬 [이벤트](https://github.com/woowacourse-fe-study/havruta-frontend/issues/1)<br>`이벤트위임`, `버블링`, `캡쳐링`, `커스텀이벤트` |
-| 04월 04일<br>　  | 1기 - 2주차<br>　 | 🗞 ["attribute" vs "property"](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/4)<br>　 | 💬 [CSS 선택자](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/6)<br>`속성선택자`, `중첩요소 선택`, `가상 클래스`, `선택자 상수화 및 관리` |
-| 04월 11일<br>　  | 1기 - 3주차<br>　 | 🗞 [쿠키 vs 세션스토리지 vs 로컬스토리지](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/7)<br>　 | 💬 [비동기 프로그래밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/8)<br>`콜백`, `Promise`, `async await`, `이벤트루프와 태스크큐`  |
+| 03/28<br>　  | 1주차<br>　 | 🗞 [\<!DOCTYPE html\>](https://github.com/woowacourse-fe-study/havruta-frontend/issues/2)<br>　 | 💬 [이벤트](https://github.com/woowacourse-fe-study/havruta-frontend/issues/1)<br>`이벤트위임`, `버블링`, `캡쳐링`, `커스텀이벤트` |
+| 04/04<br>　  | 2주차<br>　 | 🗞 ["attribute" vs "property"](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/4)<br>　 | 💬 [CSS 선택자](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/6)<br>`속성선택자`, `중첩요소 선택`, `가상 클래스`, `선택자 상수화 및 관리` |
+| 04/11<br>　  | 3주차<br>　 | 🗞 [쿠키 vs 세션스토리지 vs 로컬스토리지](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/7)<br>　 | 💬 [비동기 프로그래밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/8)<br>`콜백`, `Promise`, `async await`, `이벤트루프와 태스크큐`  |
 
 
 ### 하브루타(Havruta)?
