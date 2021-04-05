@@ -1,10 +1,10 @@
-## 📚 하브루타 프론트엔드 스터디
+# 📚 하브루타 프론트엔드 스터디
 
-### 스터디 로그 (1기~)
-- 기간: 2021.03.18(월) ~ 
-- 참여: 17명
+## 스터디로그 (1기~)
+- __기간__: 2021.03.18(월) ~ 
+- __참여__: 17명
   - 곤이, 그루밍, 도비, 디토, 미키, 브랜, 썬, 유조, 인치, 지그, 체프, 카일, 콜린, 크리스, 파노, 피터, 하루
-- 주차별 주제 모아보기
+- __주차별 주제 모아보기__
   | Date | Desc | Warm Up | Main Topic |
   |:---|:---|:---|:----|
   ||||||||
@@ -12,18 +12,19 @@
   | 04/04<br>　  | 2주차<br>　 | 🗞 ["attribute" vs "property"](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/4)<br>　 | 💬 [CSS 선택자](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/6)<br>`속성선택자`, `중첩요소 선택`, `가상 클래스`, `선택자 상수화 및 관리` |
   | 04/11<br>　  | 3주차<br>　 | 🗞 [쿠키 vs 세션스토리지 vs 로컬스토리지](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/7)<br>　 | 💬 [비동기 프로그래밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/8)<br>`콜백`, `Promise`, `async await`, `이벤트루프와 태스크큐`  |
 
+<br>
 
-### 하브루타(Havruta)?
+## 하브루타(Havruta)?
 🙋🏻 친구 🙋🏻‍♀️ 를 의미하는 히브리어인 ‘하베르’에서 유래한 용어로, <br />
 학생들끼리 짝을 이루어 서로 질문을 주고 받으며 논쟁하는 유대인의 전통적인 토론 교육 방법입니다!
 
-#### 핵심 방법론
+### 핵심 방법론
 1. 자신의 생각을 조직화하여 상대방에게 설명한다.
 2. 상대방의 이야기를 듣고 질문한다.
 
 <br>
 
-### 스터디 진행 루틴
+## 스터디 진행 루틴
 
 #### 🕙 화요일 D-5
 - 주제 & 페어배정 공지
@@ -37,10 +38,10 @@
     - 하위키워드 예시 참고해서 페어에게 할 질문 하나 이상 올리기!
     - 하위키워드 예시에 없는 내용도 완전 환영!
 
-#### 🕕 토요일 D-1
+### 🕕 토요일 D-1
 - 18:00까지 질문 [Discussion](https://github.com/woowacourse-fe-study/havruta-frontend/discussions)에 코멘트로 올리기  
 
-#### 🕑 일요일 D-Day
+### 🕑 일요일 D-Day
 - 14:00 ~ 15:00 스터디 진행하기
   - __(권장 10분)__ 워밍업 질문 
   - __(권장 40분)__ 이번주 주제 Deep하게 토론하기
@@ -54,13 +55,13 @@
 
 <br>
 
-### 📌 스터디 운영안내
+## 📌 스터디 운영안내
 
-#### 플랫폼
+### 플랫폼
 - 깃허브 : 주제선정 + 질문공유 + 토론결과 공유
 - 슬랙채널 : 운영공지
 
-#### 오거나이저
+### 오거나이저
 - 썬 🌞
 - 콜린 🥖
 - 지그 👾
