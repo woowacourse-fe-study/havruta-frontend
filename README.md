@@ -35,9 +35,6 @@
 - 주제공지 확인 후 개별 학습 진행
   - 워밍업: 주어진 자료 읽기 + 더궁금하다면 가볍게 찾아보기
   - 메인토픽: deeep하게 학습
-  - 이번주 주제(JS/WEB)
-    - 하위키워드 예시 참고해서 페어에게 할 질문 하나 이상 올리기!
-    - 하위키워드 예시에 없는 내용도 완전 환영!
 
 ### 🕕 토요일 D-1
 - 18:00까지 질문 [Discussion](https://github.com/woowacourse-fe-study/havruta-frontend/discussions)에 코멘트로 올리기
