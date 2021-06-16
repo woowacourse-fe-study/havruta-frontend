@@ -1,8 +1,10 @@
 # 📚 하브루타 프론트엔드 스터디
 - [Discussion](https://github.com/woowacourse-fe-study/havruta-frontend/discussions)을 활용해서 토론식 프론트엔드 스터디를 진행하는 repository입니다.
 
+<br />
+
 ## 스터디로그
-- __기간__: 2021.03.18(월) ~ 
+- __기간__: 2021.03.18.(월) ~ 2021.06.17.(화)
 - __참여__: 18명
   - 곤이, 그루밍, 도비, 디토, 미키, 브랜, 서니, 썬, 유조, 인치, 지그, 체프, 카일, 콜린, 크리스, 파노, 피터, 하루
 - __주차별 주제 모아보기__
@@ -90,9 +92,10 @@
 - 슬랙채널 : 운영공지
 
 ### 오거나이저
-- 썬 🌞
-- 콜린 🥖
-- 지그 👾
-- 하루 🤖
+- @SunYoungKwon 🌞
+- @2SOOY 🥖
+- @zigsong 👾
+- @swon0622 👔
+- @365kim 🤖
 
 ![image](https://user-images.githubusercontent.com/60066472/112003186-04e46700-8b64-11eb-9f1b-a953ff1a1eef.png)
