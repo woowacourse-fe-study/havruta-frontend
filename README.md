@@ -4,9 +4,13 @@
 <br />
 
 ## 스터디로그
-- __기간__: 2021.03.18.(월) ~ 2021.06.17.(화)
-- __참여__: 18명
-  - 곤이, 그루밍, 도비, 디토, 미키, 브랜, 서니, 썬, 유조, 인치, 지그, 체프, 카일, 콜린, 크리스, 파노, 피터, 하루
+- __기간__: 2021. 03. 18. (월) ~ 2021. 06. 17. (화)
+- __참여__ (총 18인)
+  - [yungo1846](https://github.com/yungo1846), [ddongule](https://github.com/ddongule), [zereight](https://github.com/zereight), [dudtjr913](https://github.com/dudtjr913), [0307kwon](https://github.com/0307kwon), [seojihwan](https://github.com/seojihwan),<br> [sunhpark42](https://github.com/sunhpark42), [SunYoungKwon](https://github.com/SunYoungKwon), [yujo11](https://github.com/yujo11), [hchayan](https://github.com/hchayan), [zigsong](https://github.com/zigsong), 
+[Puterism](https://github.com/Puterism),<br> [GwangYeol-Im](https://github.com/GwangYeol-Im), [2SOOY](https://github.com/2SOOY), [swon0622](https://github.com/swon0622), [jho2301](https://github.com/jho2301), [iborymagic](https://github.com/iborymagic), [365kim](https://github.com/365kim)
+ - __운영진__
+   - [🌞 SunYoungKwon](https://github.com/SunYoungKwon), [🥖 2SOOY](https://github.com/2SOOY), [👾 zigsong](https://github.com/zigsong), [👔 swon0622](https://github.com/swon0622), [🤖 365kim](https://github.com/365kim)
+  
 - __주차별 주제 모아보기__
   | No. | 🗞 Warm Up | 💬 Main Topic |
   |:----|:-----------|:-------------|
@@ -20,7 +24,10 @@
   | __2기-3주차__<br>(05/02) | [CSS display](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/16)<br>　 | [this](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/17)<br>`함수 호출 방식에 따른 this 바인딩`, `암시적/명시적 바인딩` |
   | __2기-4주차__<br>(05/09) | [\<link\>와 \<script\>의 위치](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/18)<br>　 | [스코프](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/20)<br>`전역/지역스코프`, `렉시컬 스코프`, `스코프체인`, `클로저`  |
   ||||
-  | __3기-1주차__<br>(05/16) | [CORS](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [에러 핸들링](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/23)<br>`Error객체`, `try-catch-finally`, `thorw`, `비동기 에러핸들링`  |
+  | __3기-1주차__<br>(05/23) | [CORS](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [에러 핸들링](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/23)<br>`Error객체`, `try-catch-finally`, `thorw`, `비동기 에러핸들링`  |
+  | __3기-2주차__<br>(05/30) | [spread vs rest 문법](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [브라우저 렌더링](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/25)<br>`DOM`, `CSSOM`, `렌더 트리`, `리플로우`, `리페인트`, `렌더링 최적화` |
+  | __3기-3주차__<br>(06/06) | [변수 네이밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [프로토타입](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/28)<br>`프로토타입 패턴`, `프로토타입 상속과 체이닝`, `prototype vs __proto__`  |
+  | __3기-4주차__<br>(06/13) | [script의 async vs defer](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/30)<br>　 | [테스트](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/29)<br>`테스트 비용`, `관심사의 분리`, `TDD, BDD`, `단위/통합/E2E테스트`  |
 
 <br>
 
@@ -90,12 +97,5 @@
 ### 플랫폼
 - 깃허브 : 주제선정 + 질문공유 + 토론결과 공유
 - 슬랙채널 : 운영공지
-
-### 오거나이저
-- @SunYoungKwon 🌞
-- @2SOOY 🥖
-- @zigsong 👾
-- @swon0622 👔
-- @365kim 🤖
 
 ![image](https://user-images.githubusercontent.com/60066472/112003186-04e46700-8b64-11eb-9f1b-a953ff1a1eef.png)
