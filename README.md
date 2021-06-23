@@ -26,7 +26,7 @@
   ||||
   | __3기-1주차__<br>(05/23) | [CORS](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [에러 핸들링](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/23)<br>`Error객체`, `try-catch-finally`, `thorw`, `비동기 에러핸들링`  |
   | __3기-2주차__<br>(05/30) | [spread vs rest 문법](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [브라우저 렌더링](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/25)<br>`DOM`, `CSSOM`, `렌더 트리`, `리플로우`, `리페인트`, `렌더링 최적화` |
-  | __3기-3주차__<br>(06/06) | [변수 네이밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/21)<br>　 | [프로토타입](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/28)<br>`프로토타입 패턴`, `프로토타입 상속과 체이닝`, `prototype vs __proto__`  |
+  | __3기-3주차__<br>(06/06) | [변수 네이밍](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/26)<br>　 | [프로토타입](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/28)<br>`프로토타입 패턴`, `프로토타입 상속과 체이닝`, `prototype vs __proto__`  |
   | __3기-4주차__<br>(06/13) | [script의 async vs defer](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/30)<br>　 | [테스트](https://github.com/woowacourse-fe-study/havruta-frontend/discussions/29)<br>`테스트 비용`, `관심사의 분리`, `TDD, BDD`, `단위/통합/E2E테스트`  |
 
 <br>
